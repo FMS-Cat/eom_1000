@@ -10,4 +10,8 @@ JavaScript, WebGL, GPGPU Particle, GLSL Glitch
 ## 1000 followers
 
 [@motions_work](https://twitter.com/motions_work) が気づいたら1000 Followers達成していたようです。すげえ。ありがとうございます。  
-パーティクルとノイズとグリッチです。  
+パーティクルとノイズとグリッチです。 
+
+## くだらない余談
+
+通し番号が **303** だ。みんなだいすきだよね303。  
