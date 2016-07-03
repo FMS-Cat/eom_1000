@@ -519,8 +519,8 @@ var saturate = function saturate(_value) {
 
 // ---
 
-var width = canvas.width = 300;
-var height = canvas.height = 300;
+var width = canvas.width = 720;
+var height = canvas.height = 720;
 var gl = canvas.getContext('webgl');
 var glCat = new _glcat2.default(gl);
 
