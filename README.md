@@ -5,7 +5,7 @@
 JavaScript, WebGL, GPGPU Particle, GLSL Glitch  
 
 [Everyday One Motion](http://motions.work/motion/303)  
-[Demo Page](http://fms-cat.github.io/eom_1000)  
+[Demo Page](http://fms-cat.github.io/eom_1000/dist)  
 
 ## 1000 followers
 
